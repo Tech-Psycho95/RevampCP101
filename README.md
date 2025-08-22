@@ -19,9 +19,9 @@ You'll find:
 ## 🚀 Why This Repo?
 
 As I prepare for upcoming academic and tech challenges, this repo helps me stay sharp and consistent.  
-Whether you're revising alongside me or just browsing, feel free to explore and contribute!
+Whether you're revising alongside me or just browsing, feel free to explore and contribute your own ideas or codes!
 
 ---
 
-> ⚡ _Built for consistency, clarity, and creative learning._
+> ⚡ _Built for consistency, clarity, and creative learning._ 
 
