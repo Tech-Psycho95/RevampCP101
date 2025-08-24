@@ -22,3 +22,18 @@ for num in nums:
 else:
     print("loop")
 
+# Variable declaration to print in different line
+
+a = 10
+b = 3.14
+c = "A"
+d = "true"
+
+print (f"{a}\n{b}\n{c}\n{d}")
+
+# integer to ASCII conversion:
+
+b = int(80)
+
+print(chr(b)) # prints P alphabet
+
