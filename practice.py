@@ -37,3 +37,8 @@ b = int(80)
 
 print(chr(b)) # prints P alphabet
 
+# learned something new
+
+a = list(filter(lambda x: x > 3, [1, 2, 3, 4, 5]))
+print(a)
+
