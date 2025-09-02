@@ -37,6 +37,10 @@ b = int(80)
 
 print(chr(b)) # prints P alphabet
 
+#star pattern triangle
+
+print("   *", "  ***  ", " *****", "*******", sep='\n')
+
 # learned something new
 
 a = list(filter(lambda x: x > 3, [1, 2, 3, 4, 5]))
