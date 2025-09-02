@@ -39,7 +39,7 @@ print(chr(b)) # prints P alphabet
 
 #star pattern triangle
 
-print("   *", "  ***  ", " *****", "*******", sep='\n')
+print("    *", "   ***", "  *****", " *******", "*********", sep='\n')
 
 # learned something new
 
