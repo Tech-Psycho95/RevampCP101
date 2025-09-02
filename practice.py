@@ -37,7 +37,7 @@ b = int(80)
 
 print(chr(b)) # prints P alphabet
 
-#star pattern triangle
+#star pattern triangle by basic method 
 
 print("    *", "   ***", "  *****", " *******", "*********", sep='\n')
 
@@ -46,3 +46,18 @@ print("    *", "   ***", "  *****", " *******", "*********", sep='\n')
 a = list(filter(lambda x: x > 3, [1, 2, 3, 4, 5]))
 print(a)
 
+# Calculate the Area of a Triangle by giving random input
+
+
+b = int(input("enter base:"))
+h = int(input("enter height:"))
+area = 1/2 * b * h
+print("area of triangle:", area)
+
+# Adding real and complex numbers with telling it's class
+
+a = 2 + 3j
+b = 4 + 5j
+c = a + b
+print(a + b)
+print(type(c))
