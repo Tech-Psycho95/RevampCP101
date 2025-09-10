@@ -54,10 +54,40 @@ h = int(input("enter height:"))
 area = 1/2 * b * h
 print("area of triangle:", area)
 
-# Adding real and complex numbers with telling it's class
+# Adding real and complex numbers with telling it's class type
 
 a = 2 + 3j
 b = 4 + 5j
 c = a + b
 print(a + b)
 print(type(c))
+
+#Printing a number is even or odd
+
+num = int(input("enter a number:"))
+if num % 2 == 0:
+    print("even")
+else:
+    print("odd")
+
+#Que - Distribution of ticket prices as per different age groups
+
+age = int(input("enter age :"))
+if age < 12:
+    print("100")
+elif age >= 12 and age <= 60:
+    print("200")
+elif age > 60:
+    print("150")
+
+#Que - Grade distribution in a class test according to marks a student has scored
+
+num = int(input("enter your marks:"))
+if num >= 90:
+    print("A")
+elif num >= 75:
+    print("B")
+elif num >= 60:
+    print("C")
+elif num < 60:
+    print("D")
